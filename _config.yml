@@ -2,8 +2,9 @@ title: Heeyun KIM 김희연 # your name (or website title) here
 logo: "/images/리온.PNG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   
- EWHA WOMANS UNIVERSITY<br>Electronical Engineering<br>
-  <br>Email : eelinus@naver.com<br>
+EWHA WOMANS UNIVERSITY
+<br>Electronical Engineering<br>
+<br>Email : eelinus@naver.com<br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
